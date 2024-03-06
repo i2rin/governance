@@ -8,3 +8,4 @@
     * これは天谷が掲示されていたものを文字起こししたもの
 * [映画会部会](./movie.md)
 * [天谷の所感メモ](./feelingByAmaya.md)
+* [Slackの使い方](./slack.md)
